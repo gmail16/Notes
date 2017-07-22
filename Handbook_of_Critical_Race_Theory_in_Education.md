@@ -25,7 +25,7 @@ On Columbine:
 > "Unsuprisingly, the parents who had fled Denver in search of safety found the opposite for their children in the suburbs. Nor is Littleton unique. Practically every serial shooting has taken place in suburban schools that were all-white and highly competitive." (p. 27)
 
 A weird assumption about these schools (especially given how much money these communities have:
-> "Schools like Berkeley High School or Santa Monica High School in California, or Garfield in Seattle, with large numbers of minorities and kids from all classes, professor and banker families all the way to janitor and homeless families, are both academically excellent and multiracial. Few school shootings or serious mayhem take place in schools like these, because almost every kid is apt to have a peer group in which he or she feels secure." (p. 28)
+> "Schools like Berkeley High School or [Santa Monica High School](http://www.samohi.smmusd.org/) in California, or Garfield in Seattle, with large numbers of minorities and kids from all classes, professor and banker families all the way to janitor and homeless families, are both academically excellent and multiracial. Few school shootings or serious mayhem take place in schools like these, because almost every kid is apt to have a peer group in which he or she feels secure." (p. 28)
 
 <dl>
     <dt>differential-racialization (Omi & Winant, 1994)</dt>
