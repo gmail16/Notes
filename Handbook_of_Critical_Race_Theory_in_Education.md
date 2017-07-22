@@ -19,7 +19,7 @@ On why CRT theorists had to break from CLS:
 ---
 
 ## "Discerning Critical Moments"
-Delgado & Stefancic posit that CRT's work is in using critical concepts to conncet seemingly disconnected events, or "critical moments." They use a few fairly ovesimplistic examples of this, namely a discussion of Columbine's violence fueled by white flight.
+Delgado & Stefancic posit that CRT's work is in using critical concepts to conncet seemingly disconnected events, or "critical moments." They use a few fairly ovesimplistic examples of this, namely a discussion of Columbine's violence fueled by white flight and Latino & black labor. 
 
 On Columbine:
 > "Unsuprisingly, the parents who had fled Denver in search of safety found the opposite for their children in the suburbs. Nor is Littleton unique. Practically every serial shooting has taken place in suburban schools that were all-white and highly competitive." (p. 27)
@@ -29,8 +29,13 @@ A weird assumption about these schools (especially given how much money these co
 
 <dl>
     <dt>differential-racialization (Omi & Winant, 1994)</dt>
-    <dd>
+    <dd>each group of color is racialized in different ways from the others</dd>
 </dl>
 
-##### Delgado, R., & Stefancic, J. (2013). "Discerning critical moments" In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
+##### Delgado, R., & Stefancic, J. (2013). "Discerning critical moments." In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
 
+---
+
+## "Critical Race Theory -- What It Is Not!"
+
+##### Ladson-Billings, G. (2013). "Critical race theory - What it is not!" In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
