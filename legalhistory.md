@@ -29,4 +29,10 @@ Undoes Griggs. Rejected the discriminatory effect as basis for determining uncon
 ## Bakke v. Regents of the University of California *(1978)*
 Court strikes down admissions practice at UC Davis Medical School for reserving 16 seats out of 100 for POC.
 
-Brown, K., & Jackson, D. J. (2013). "The history and conceptual elements of Critical Race Theory." In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
+## City of Richmond v. Croson *(1989)*
+Strikes down set-aside program for minority contracters in Richmond, VA
+>For the first time in the 121-year history of the equal protection clause, a majority of the justices followed Justice Powell's proclamation: that the purpose of the equal protection clause was to protect the rights of individuals. As a result, the Court concluded that strict judicial scrutiny would apply to the use of racial classifications by state and local government entities, regardless of the race of the beneficiaries.
+
+# End Notes
+
+- Brown, K., & Jackson, D. J. (2013). "The history and conceptual elements of Critical Race Theory." In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
