@@ -1,0 +1,3 @@
+- Kimberlé Crenshaw, (1998). "Race, Reform and Retrenchment: Transformation and Legitimation in Antidiscrimination Law." *Harvard Law Review*
+- Derrick Bell, (1989). *And We are Not Saved: The Elusive Quest for Racial Justice.*
+- Terry Curry (2008). "Saved by the Bell: Derrick Bell's Racial Realism as Pedagogy."
