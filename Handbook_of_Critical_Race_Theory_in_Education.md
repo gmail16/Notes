@@ -93,3 +93,10 @@ On the idea that CRT must be "reinvented" in education:
 </dl> -->
 
 ##### Solorzano, D. G. (2013). "Critical Race Theory's intellectual roots: My email epistolary with Derrick Bell." In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
+
+---
+
+### "Du Bois's Contributions to Critical Race Studies in Education" 
+Rabaka makes the case that Du Bois collected work could be considered *classical CRT* in its foreshadowing explications of an intersectional, class-conscious idea of race and racism. Du Bois, she argues, is flattened into a counterpoint to Booker T. Washington within discussions aroud
+
+##### Rabaka, R. (2013). "Du Bois's contributions to Critical Race Theory in education."In M. Lynn & A. D. Dixson (Eds.), *Handbook of Critical Race Theory in education*. New York, NY: Routledge 
